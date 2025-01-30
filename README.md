@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sivagiri</h1>
-<h3 align="center">A Master of Mern full stack Develper</h3>
+<h3 align="center">A Master of Mern Full Stack Develper</h3>
 
 - 📫 How to reach me **mastersivagiri@gmail.com**
 
